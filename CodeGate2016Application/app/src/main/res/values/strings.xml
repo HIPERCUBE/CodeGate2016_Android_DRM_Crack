@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeGate2016</string>
+    <string name="title_activity_license">LicenseActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_un_locker">UnLockerActivity</string>
+    <string name="title_activity_in_app_payment">InAppPayment</string>
+
+    <string name="license_alert">Your device brand is not "vega"</string>
+</resources>
